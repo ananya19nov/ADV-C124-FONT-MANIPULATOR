@@ -1,0 +1,27 @@
+.heading{
+    width: 100%;
+    margin: 0px;
+    font-size: 22px;
+    box-shadow: 5px 5px 36px gray;
+    background-color: #B9B7BD;
+}
+#note{
+    font-size: 15px;
+}
+#footer{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: #B9B7BD;
+    text-align: center;
+    font-size: 24px;
+    box-shadow: 5px 5px 36px gray;
+}
+body{
+    font-family: 'Josefin Sans', sans-serif;
+    background-image: url('background.jpg');
+    font-weight: bolder;
+}
+#sideSquare{
+    background-color: #B9B7BD;
+}
